@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "ext-phalcon": "~4.0.0-beta.2",
+        "ext-phalcon": "^4.0.0",
         "casbin/casbin": "^2.3"
     },
     "autoload": {
